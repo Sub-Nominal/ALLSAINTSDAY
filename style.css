@@ -11,4 +11,6 @@ div {
     width: 400;
     height: 400;
     padding: 10;
+    align-items: center;
+    vertical-align: middle;
 }
