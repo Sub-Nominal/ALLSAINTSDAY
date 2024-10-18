@@ -8,12 +8,3 @@ h1 {
     vertical-align: middle;
 
 }
-  
-div {
-    width: 400;
-    height: 400;
-    padding: 10;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
